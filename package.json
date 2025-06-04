@@ -1,0 +1,22 @@
+{
+  "name": "love-maths",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rory-codes/love-math.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rory-codes/love-math/issues"
+  },
+  "homepage": "https://github.com/rory-codes/love-math#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
